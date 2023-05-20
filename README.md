@@ -1,15 +1,23 @@
-# a-simple-code-of-Retinal-blood-vessel-extraction-based-on-matched-filter-and-level-set-algorithm
+# Retinal blood vessels extraction based on a combination of matched filter and active contour
 
-This repository is an implementation of the conference paper below:
-
-*"Retinal blood vessels extraction based on a combination of matched filter and level set algorithm"*
-
-https://www.researchgate.net/publication/331310525_astkhraj_rwq_shbkyh_brasas_trkyb_fyltr_ttbyqy_w_algwrytm_hmtraz_Retinal_blood_vessels_extraction_based_on_a_combination_of_matched_filter_and_level_set_algorithm
+This repository is an implementation of the conference paper below:</br>
+*https://www.researchgate.net/publication/331310525_astkhraj_rwq_shbkyh_brasas_trkyb_fyltr_ttbyqy_w_algwrytm_hmtraz_Retinal_blood_vessels_extraction_based_on_a_combination_of_matched_filter_and_level_set_algorithm*
 
 The orginal version is in Farsi. If it was useful you can cite:
 
-Mahtab Shabani (2023) a-simple-code-of-Retinal-blood-vessel-extraction-based-on-matched-filter-and-level-set-algorithm [Source code] https://github.com/Mahtab-Shabani/a-simple-code-of-Retinal-blood-vessel-extraction-based-on-matched-filter-and-level-set-algorithm/.
+```
+Mahtab Shabani. 2023. Retinal blood vessels extraction based on a combination of matched filter and active contour. https://github.com/Mahtab-Shabani/a-simple-code-of-Retinal-blood-vessel-extraction-based-on-matched-filter-and-level-set-algorithm/.
+```
 
-For more additional information read the ISI paper:
+![image](https://github.com/Mahtab-Shabani/Retinal-blood-vessel-extraction-based-on-a-combination-of-matched-filter-and-active-contour/assets/21992001/2dd2e561-299c-44fb-b5a2-255cf0ce2489)
+ 
 
-https://www.researchgate.net/publication/357619455_An_active_contour_model_using_matched_filter_and_Hessian_matrix_for_retinal_vessels_segmentation?_sg%5B0%5D=JhOLqwF83IKDGCLICrcf_CazAPCbb-9cnlaXiau1B7feR6v6I5xN5bq3xVJksjI6ylq8CooDQmi-wXge8R-MFCyc5-NuuMiFhrd5cHNh.qJS4yQvrV1RrJpntAy16BCmPBg8aA881my6j2TUJaPuevHSSKRk_rSvULUcl4hE6wzV_JmS7LrGNMSpjo_4VrQ
+### Result: <br/>
+![image](https://github.com/Mahtab-Shabani/Retinal-blood-vessel-extraction-based-on-a-combination-of-matched-filter-and-active-contour/assets/21992001/3093af5d-b12a-4111-acfc-b88608318c2c)
+
+
+#### Performance metrics on the DRIVE database:
+![image](https://github.com/Mahtab-Shabani/Retinal-blood-vessel-extraction-based-on-a-combination-of-matched-filter-and-active-contour/assets/21992001/57dc76dc-2dc8-4c45-87c0-9111e95f03f2)
+
+
+#### RUN demo.m and Enjoy it!
