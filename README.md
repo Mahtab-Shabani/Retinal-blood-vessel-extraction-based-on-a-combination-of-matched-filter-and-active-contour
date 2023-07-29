@@ -3,8 +3,6 @@
 This repository is an implementation of the conference paper below:</br>
 *https://www.researchgate.net/publication/331310525_astkhraj_rwq_shbkyh_brasas_trkyb_fyltr_ttbyqy_w_algwrytm_hmtraz_Retinal_blood_vessels_extraction_based_on_a_combination_of_matched_filter_and_level_set_algorithm*
 
-The orginal version is in Farsi. If it was useful you can cite:
-
 ```
 Mahtab Shabani. 2023. Retinal blood vessels extraction based on a combination of matched filter and active contour. https://github.com/Mahtab-Shabani/a-simple-code-of-Retinal-blood-vessel-extraction-based-on-matched-filter-and-level-set-algorithm/.
 ```
