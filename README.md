@@ -9,7 +9,6 @@ Mahtab Shabani. 2023. Retinal blood vessels extraction based on a combination of
 
 ![image](https://github.com/Mahtab-Shabani/Retinal-blood-vessel-extraction-based-on-a-combination-of-matched-filter-and-active-contour/assets/21992001/2dd2e561-299c-44fb-b5a2-255cf0ce2489)
  
-
 ### Result: <br/>
 ![image](https://github.com/Mahtab-Shabani/Retinal-blood-vessel-extraction-based-on-a-combination-of-matched-filter-and-active-contour/assets/21992001/3093af5d-b12a-4111-acfc-b88608318c2c)
 
