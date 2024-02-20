@@ -1,8 +1,7 @@
-# Retinal blood vessels extraction based on a combination of matched filter and active contour
+# Retinal blood vessel extraction based on a combination of matched filter and active contour
 
 An implementation of the conference paper below is available in this repository. It is easy to use and understand this code:</br>
-*https://www.researchgate.net/publication/331310525_astkhraj_rwq_shbkyh_brasas_trkyb_fyltr_ttbyqy_w_algwrytm_hmtraz_Retinal_blood_vessels_extraction_based_on_a_combination_of_matched_filter_and_level_set_algorithm*
-
+[LINK](https://www.researchgate.net/publication/331310525_astkhraj_rwq_shbkyh_brasas_trkyb_fyltr_ttbyqy_w_algwrytm_hmtraz_Retinal_blood_vessels_extraction_based_on_a_combination_of_matched_filter_and_level_set_algorithm)<br />
 
 
 ![image](https://github.com/Mahtab-Shabani/Retinal-blood-vessel-extraction-based-on-a-combination-of-matched-filter-and-active-contour/assets/21992001/2dd2e561-299c-44fb-b5a2-255cf0ce2489)
